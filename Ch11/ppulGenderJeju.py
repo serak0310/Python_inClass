@@ -1,3 +1,5 @@
+# 인구구조 성별
+
 import csv
 f = open('gender.csv')
 data = csv.reader(f)

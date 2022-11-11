@@ -1,3 +1,5 @@
+#인구구조 지역
+
 import csv
 f = open('age.csv')
 data = csv.reader(f)
